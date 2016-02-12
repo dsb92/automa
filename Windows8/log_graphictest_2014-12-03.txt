@@ -1,0 +1,481 @@
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains empty space...replacing it with '-'
+10:49:28-------Looking for graphicTitel: Akershus-Amtstidende
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Akershus-Amtstidende/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Akershus-Amtstidende/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains Digital Utgave...replacing it with ''
+10:49:28-------App name contains empty space...replacing it with '-'
+10:49:28-------Looking for graphicTitel: Arbeidets-Rett
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Arbeidets-Rett/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Arbeidets-Rett/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains empty space...replacing it with '-'
+10:49:28-------Looking for graphicTitel: Aura-Avis
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Aura-Avis/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Aura-Avis/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains empty space...replacing it with '-'
+10:49:28-------Looking for graphicTitel: Aust-Agder-Blad
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Aust-Agder-Blad/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Aust-Agder-Blad/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains empty space...replacing it with '-'
+10:49:28-------Looking for graphicTitel: Avisa-Nordland
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Avisa-Nordland/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Avisa-Nordland/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------Looking for graphicTitel: Bergensavisen
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Bergensavisen/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Bergensavisen/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains Digital Utgave...replacing it with ''
+10:49:28-------Looking for graphicTitel: Bygdeposten
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Bygdeposten/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Bygdeposten/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains empty space...replacing it with '-'
+10:49:28-------Looking for graphicTitel: Ditt-Oslo
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Ditt-Oslo/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Ditt-Oslo/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains empty space...replacing it with '-'
+10:49:28-------Looking for graphicTitel: Drammens-Tidende
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Drammens-Tidende/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Drammens-Tidende/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------Looking for graphicTitel: Eikerbladet
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Eikerbladet/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Eikerbladet/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains empty space...replacing it with '-'
+10:49:28-------Looking for graphicTitel: Enebakk-Avis
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Enebakk-Avis/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Enebakk-Avis/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains empty space...replacing it with '-'
+10:49:28-------Looking for graphicTitel: Finnmark-Dagblad
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Finnmark-Dagblad/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Finnmark-Dagblad/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains Digital Utgave...replacing it with ''
+10:49:28-------Looking for graphicTitel: Finnmarken
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Finnmarken/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Finnmarken/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------Looking for graphicTitel: Finnmarksposten
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Finnmarksposten/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Finnmarksposten/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------Looking for graphicTitel: Firda
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Firda/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Firda/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains Digital Utgave...replacing it with ''
+10:49:28-------Looking for graphicTitel: Firdaposten
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Firdaposten/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Firdaposten/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------App name contains empty space...replacing it with '-'
+10:49:28-------Looking for graphicTitel: Fredriksstad-Blad
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Fredriksstad-Blad/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Fredriksstad-Blad/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------Looking for graphicTitel: Fremover
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Fremover/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Fremover/Windows/W8
+10:49:28-------Getting graphic path...
+10:49:28-------App name is OK
+10:49:28-------Looking for graphicTitel: Gjengangeren
+10:49:28-------Graphic titel found!
+10:49:28-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Gjengangeren/Windows/W8
+10:49:28-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Gjengangeren/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------Looking for graphicTitel: Glåmdalen
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Glåmdalen/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Glåmdalen/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------Looking for graphicTitel: Hadeland
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Hadeland/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Hadeland/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Halden-Arbeiderblad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Halden-Arbeiderblad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Halden-Arbeiderblad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Hamar-Dagblad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Hamar-Dagblad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Hamar-Dagblad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains Digital Utgave...replacing it with ''
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Hardanger-Folkeblad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Hardanger-Folkeblad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Hardanger-Folkeblad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Haugesunds-Avis
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Haugesunds-Avis-v2/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Haugesunds-Avis-v2/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------Looking for graphicTitel: Helgelendingen
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Helgelendingen/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Helgelendingen/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains Digital Utgave...replacing it with ''
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Indre-Akershus-Blad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Indre-Akershus-Blad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Indre-Akershus-Blad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains Digital Utgave...replacing it with ''
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Jarlsberg-Avis
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Jarlsberg-Avis/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Jarlsberg-Avis/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains Digital Utgave...replacing it with ''
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Kragerø-Blad-Vestmar
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Kragerø-Blad-Vestmar-/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Kragerø-Blad-Vestmar-/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains Digital Utgave...replacing it with ''
+10:49:29-------Looking for graphicTitel: Kvinnheringen
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Kvinnheringen/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Kvinnheringen/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------Looking for graphicTitel: Laagendalsposten
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Laagendalsposten/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Laagendalsposten/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------Looking for graphicTitel: Lierposten
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Lierposten/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Lierposten/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains Digital Utgave...replacing it with ''
+10:49:29-------Looking for graphicTitel: Lofot-Tidende
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Lofot-Tidende/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Lofot-Tidende/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------Looking for graphicTitel: Lofotposten
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Lofotposten/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Lofotposten/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Malvik-Bladet
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Malvik-Bladet/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Malvik-Bladet/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Moss-Avis
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Moss-Avis/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Moss-Avis/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------Looking for graphicTitel: Namdalsavisa
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Namdalsavisa/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Namdalsavisa/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains Digital Utgave...replacing it with ''
+10:49:29-------Looking for graphicTitel: Nordhordland
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Nordhordland/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Nordhordland/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------Looking for graphicTitel: Nordlys
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Nordlys/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Nordlys/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Nordstrands-Blad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Nordstrands-Blad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Nordstrands-Blad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------Looking for graphicTitel: Opdalingen
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Opdalingen/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Opdalingen/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Oppland-Arbeiderblad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Oppland-Arbeiderblad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Oppland-Arbeiderblad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains Digital Utgave...replacing it with ''
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Porsgrunns-Dagblad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Porsgrunns-Dagblad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Porsgrunns-Dagblad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains Digital Utgave...replacing it with ''
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Rakkestad-Avis
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Rakkestad-Avis/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Rakkestad-Avis/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Rana-Blad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Rana-Blad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Rana-Blad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Ringerikes-Blad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Ringerikes-Blad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Ringerikes-Blad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Ringsaker-Blad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Ringsaker-Blad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Ringsaker-Blad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains Digital Utgave...replacing it with ''
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Rjukan-Arbeiderblad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Rjukan-Arbeiderblad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Rjukan-Arbeiderblad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------Looking for graphicTitel: Romerikes-Blad
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Romerikes-Blad/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Romerikes-Blad/Windows/W8
+10:49:29-------Getting graphic path...
+10:49:29-------App name is OK
+10:49:29-------App name contains empty space...replacing it with '-'
+10:49:29-------App name contains slash, replacing it with ''...
+10:49:29-------Looking for graphicTitel: Lørenskog
+10:49:29-------Graphic titel found!
+10:49:29-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Romerikes-Blad-Lørenskog/Windows/W8
+10:49:29-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Romerikes-Blad-Lørenskog/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------App name contains slash, replacing it with ''...
+10:49:30-------Looking for graphicTitel: Eidsvoll
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Romerikes-Blad-Ullensaker-Eidsvoll/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Romerikes-Blad-Ullensaker-Eidsvoll/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains Digital Utgave...replacing it with ''
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------Looking for graphicTitel: Røyken-og-Hurums-Avis
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Røyken-og-Hurum-Avis/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Røyken-og-Hurum-Avis/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------Looking for graphicTitel: Sande-Avis
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Sande-Avis/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Sande-Avis/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------Looking for graphicTitel: Sandefjords-Blad
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Sandefjords-Blad/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Sandefjords-Blad/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------Looking for graphicTitel: Sarpsborg-Arbeiderblad
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Sarpsborg-Arbeiderblad/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Sarpsborg-Arbeiderblad/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------Looking for graphicTitel: Smaalenene-Avis
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Smaalenene-Avis/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Smaalenene-Avis/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------Looking for graphicTitel: Solungavisa
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Solungavisa/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Solungavisa/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains Digital Utgave...replacing it with ''
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------Looking for graphicTitel: Stjørdalens-Blad
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Stjørdalens-Blad/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Stjørdalens-Blad/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------Looking for graphicTitel: Svelviksposten
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Svelviksposten/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Svelviksposten/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------Looking for graphicTitel: Telemarksavisa
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Telemarksavisa/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Telemarksavisa/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------Looking for graphicTitel: Telen
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Telen/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Telen/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains Digital Utgave...replacing it with ''
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------Looking for graphicTitel: Tidens-Krav
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Tidens-Krav/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Tidens-Krav/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------Looking for graphicTitel: Tvedestrandsposten
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Tvedestrandsposten/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Tvedestrandsposten/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------Looking for graphicTitel: Tønsbergs-Blad
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Tønsbergs-Blad/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Tønsbergs-Blad/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------Looking for graphicTitel: Vestby-Avis
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Vestby-Avis/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Vestby-Avis/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------Looking for graphicTitel: Østlandets-Blad
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Østlandets-Blad/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Østlandets-Blad/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------Looking for graphicTitel: Østlands-Posten
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Østlands-Posten/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Østlands-Posten/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------Looking for graphicTitel: Østlendingen
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Østlendingen/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Østlendingen/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains Digital Utgave...replacing it with ''
+10:49:30-------Looking for graphicTitel: Øyene
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Lokalavisen-Øyene/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Lokalavisen-Øyene/Windows/W8
+10:49:30-------Getting graphic path...
+10:49:30-------App name is OK
+10:49:30-------App name contains empty space...replacing it with '-'
+10:49:30-------Looking for graphicTitel: Ås-Avis
+10:49:30-------Graphic titel found!
+10:49:30-------Returning graphic path C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Ås-Avis/Windows/W8
+10:49:30-------C:\Users\David\Projekter\Device\Windows\Windows8/ready_v13/ready/Ås-Avis/Windows/W8
